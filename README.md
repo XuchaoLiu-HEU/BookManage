@@ -31,6 +31,15 @@
 > 2.3 多线程处理客户端请求和响应
 
 3. 视频演示
-
+<iframe 
+src="https://github.com/XuchaoLiu-HEU/BookManage/blob/master/%E6%BC%94%E7%A4%BA/%E5%9B%BE%E4%B9%A6%E7%AE%A1%E7%90%86.mp4" 
+scrolling="no" 
+border="0" 
+frameborder="no" 
+framespacing="0" 
+allowfullscreen="true" 
+height=600 
+width=800> 
+</iframe>
 
 
